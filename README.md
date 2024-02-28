@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Riches Metelewawon</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img alt=”coding” width=”400px” src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrbmLd7_YxMWW5d4FvNPUyQYEF4LUkTLW0-i00WfhwQA&s”>
+<img alt=”coding” width=”400” src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrbmLd7_YxMWW5d4FvNPUyQYEF4LUkTLW0-i00WfhwQA&s”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richswag009&label=Profile%20views&color=0e75b6&style=flat" alt="richswag009" /> </p>
 
